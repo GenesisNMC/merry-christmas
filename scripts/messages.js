@@ -17,7 +17,6 @@ var messages = [
 	['Excuse the noise, I\'m just driving/on the train/walking'],
 	['Your sound is feeble'],
 	['We can\'t hear you, are you on mute?'],
-
 	['Sorry, could you repeat the question?'],
 	['Sorry, I was responding to an email, what was the question?'],
 	['Let\'s give it a few minutes before we start'],
